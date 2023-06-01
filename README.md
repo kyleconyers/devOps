@@ -19,6 +19,7 @@ source blog/bin/activate
 python3 -m pip install django
 python3 manage.py runserver
 pip install django-cripy
+pip3 install crispy-bootstrap4 
 
 
 
