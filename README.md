@@ -17,7 +17,7 @@ cd blog
 python3 -m venv blog
 source blog/bin/activate
 python3 -m pip install django
-pip install django-cripy
+pip install django-cripy-forms
 pip3 install crispy-bootstrap4 
 python3 manage.py runserver
 
